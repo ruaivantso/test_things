@@ -1,0 +1,5 @@
+exe__cutable("mojo_echo_daemon") {
+  sources = [
+    "mojo_echo_daemon.cc",
+  ]
+}
